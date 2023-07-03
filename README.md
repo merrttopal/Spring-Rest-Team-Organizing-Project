@@ -22,7 +22,7 @@ This project uses Google Tink library to encrypt the passwords of the users who 
 
 You can download the source code of the project via git:
 
-git clone https://github.com/yourusername/hali-saha.git
+git clone https://github.com/merrttopal/Team-Organizing-Project.git
 
 Since the project is Maven based, it will automatically download the dependencies.
 
